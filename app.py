@@ -261,6 +261,7 @@ Here is the patient input:
                     pdf.multi_cell(0, 10, line)
                 now = datetime.now().strftime('%Y%m%d%H%M%S')
                 filename = f"{st.session_state.username}_{now}.pdf"
+                st.session_state.pdf_filename = filename
                 st.session_state.pdf_bytes = pdf.output(dest="S").encode("latin1")
                 st.session_state.pdf_filename = filename
 
