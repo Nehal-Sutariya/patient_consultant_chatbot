@@ -1,0 +1,8 @@
+streamlit
+speechrecognition
+sounddevice
+python-dotenv
+fpdf
+google-generativeai
+pydub
+ffmpeg-python

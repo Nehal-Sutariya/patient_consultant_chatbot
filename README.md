@@ -1,1 +1,1 @@
-# patient_consultant_chatbot
+# hospital_chatbot
