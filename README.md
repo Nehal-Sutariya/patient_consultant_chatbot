@@ -21,3 +21,6 @@ This is a healthcare chatbot system where a patient can input their health-relat
   2)Helps consultants get a quick overview of patient conditions
   3)Reduces manual documentation work
   4)Provides a simple and user-friendly interface for both patients and admins
+
+
+Live_Project_link:https://patientconsultantchatbot-production.up.railway.app/
